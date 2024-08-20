@@ -1,2 +1,4 @@
-package com.green.FinalTest;public class Bbb {
+package com.green.FinalTest;
+
+public class Bbb {
 }
