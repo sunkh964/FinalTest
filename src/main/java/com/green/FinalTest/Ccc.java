@@ -1,2 +1,4 @@
-package com.green.FinalTest;public class Ccc {
+package com.green.FinalTest;
+
+public class Ccc {
 }
